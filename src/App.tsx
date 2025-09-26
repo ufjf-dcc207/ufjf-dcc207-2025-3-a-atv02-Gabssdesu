@@ -3,9 +3,11 @@ import Disciplina from './Disciplina'
 function App() {
   return (
     <>
-      <h1>Hi Barbie</h1>
-      <p>Hi Ken</p>
-      <Disciplina></Disciplina>
+      <h1>Scheibe</h1>
+      <p>Dead dance</p>
+      <Disciplina codigo="DCC207" nome="Desenvolvimentro Web Front End"></Disciplina>
+      <Disciplina codigo="DCC206" nome="Desenvolvimentro Web II"></Disciplina>
+      <Disciplina codigo="DCC202" nome="Desenvolvimentro Web I"></Disciplina>
     </>
   )
 }
